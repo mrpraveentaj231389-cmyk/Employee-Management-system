@@ -1,0 +1,8 @@
+1,Praveen Kumar ,22,ECE,20000.0,['Python', 'Gsoc Google cloud arcade']
+2,Varsha Shukla,23,B.com,50000.0,['Katne ka']
+1,Jyoti Kori,22,MBA,2000.0,['Kuch Nhi']
+2, Varsha Shukla, 25, CHSL, 75000.0, ['Worship']
+45, Praveen Kumar, 22, ECE, 20000.0, ['GSOC crack']
+18, Sonali Bhabhi, 22, CSE(AIML), 100000.0, ['5 years experience']
+36,VARSHA SHUKLA,24,CHSL,100000.0,['WORSHIP']
+18,SONALI BHABHI,24,CSE(AIML),200000.0,['5 year EXPERIENCE']

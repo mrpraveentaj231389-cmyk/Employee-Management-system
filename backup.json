@@ -1,0 +1,22 @@
+[
+    {
+        "id": 36,
+        "name": "Varsha Shukla",
+        "age": 24,
+        "department": "CHSL",
+        "salary": 100000.0,
+        "skills": [
+            "WORSHIP"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Sonali Bhabhi",
+        "age": 24,
+        "department": "CSE(AIML)",
+        "salary": 200000.0,
+        "skills": [
+            "5 year EXPERIENCE"
+        ]
+    }
+]
